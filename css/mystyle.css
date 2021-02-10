@@ -1,0 +1,15 @@
+.orange {
+	color: orange;
+}
+
+#blue {
+	background-color: navy;
+}
+
+body {
+	background-color: lightblue; 
+}
+.border{
+	border-style: solid;
+	color: black;
+}
